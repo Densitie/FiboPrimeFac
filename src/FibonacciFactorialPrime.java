@@ -1,12 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Arun K
+ * Jan 6 2020
+ * This program calculates the numbers of the fibonacci sequence, checks numbers to verify if they are prime, and calculates the factorial of numbers
  */
 
 /**
  *
- * @author ajayk
+ * @author arkir7294
  */
 public class FibonacciFactorialPrime extends javax.swing.JFrame {
     int answer1;
